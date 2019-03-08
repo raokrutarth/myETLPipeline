@@ -34,3 +34,13 @@ Sample project to expriment building an ETL pipeline with Kafka, Apache Spark, P
 ## Order of Progress
 
 - Setup Spark streaming with containers
+
+## Books & Refrences
+
+Advanced Analytics with Spark - Patterns for Learning from Data at Scale (O'Reilly, 2015)
+Big Data Principles and Best Practices of Scalable Realtime Data Systems (Manning, 2015)
+Data Analytics with Hadoop - An Introduction for Data Scientists by O’Reilly (2016)
+Designing Data Intensive Applications by Martin Kleppmann O’Reilly Media (2017)
+Doing Data Science - Straight Talk from the Frontline-O'Reilly Media (2013)
+Learning Spark - Lightning-Fast Big Data Analysis (O'Reilly, 2015)
+

@@ -1,0 +1,13 @@
+global:
+  scrape_interval:     5s
+  evaluation_interval: 5s
+
+  external_labels:
+      monitor: 'prometheus-grafana-exporter'
+
+
+scrape_configs:
+  - job_name: "kjanshair"
+    scrape_interval: 5s
+    static_configs:
+      - targets: ['nodeexporter:9100']
