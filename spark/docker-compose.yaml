@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+
+  spark:
+    image: jupyter/pyspark-notebook
+    container_name: spark_con
+    ports:
+      - 8888:8888
+    volumes:
+      - ${PWD}:/home/jovyan/work
